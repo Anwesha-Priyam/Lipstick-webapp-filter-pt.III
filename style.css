@@ -1,0 +1,10 @@
+body
+{
+    background-image: url("Bg.png");
+    background-size: cover;
+    background-position: center;
+}
+label
+{
+   color: palevioletred;
+}
